@@ -1,0 +1,7 @@
+Hospital Executive Administration and Crisis Governance Protocol
+Classification: RESTRICTED_ADMIN | Effective Date: 2026-03-01 | Version: 1.4
+
+1. Incident Command Structure: In severe disasters, the Medical Superintendent assumes Command Post authority.
+2. Budgetary Contingency: Emergency equipment procurement up to $50,000 can be authorized directly by the Chief of Staff.
+3. IT Security Incident Protocol: In case of suspected electronic data compromise, the IT Security Lead must isolate the electronic health record subnet and notify the Ministry within 2 hours.
+4. Staff Credential Verification: Annual re-credentialing audits are conducted every November.

@@ -1,0 +1,9 @@
+Hospital General Visiting Hours and Patient Guidelines
+Effective Date: 2026-01-01 | Version: 2.1
+
+1. General Ward Visiting Hours: Monday to Sunday, 10:00 AM to 12:00 PM and 4:00 PM to 7:00 PM.
+2. Intensive Care Unit (ICU): Restricted to immediate family members only. Visiting window: 5:00 PM to 6:00 PM.
+3. Outpatient Department (OPD): Operates Monday to Saturday from 8:00 AM to 2:00 PM.
+4. Emergency Services: Open 24/7 with immediate triage triage at Entrance B.
+5. Patient Code of Conduct: Quiet hours are observed from 9:00 PM to 6:00 AM. Cell phone usage should be on silent.
+6. Pharmacy: 24-hour outpatient pharmacy is located adjacent to the Main Reception.

@@ -1,0 +1,11 @@
+Staff Clinical Standard Operating Procedure: Emergency Triage Protocols
+Classification: STAFF_ONLY | Effective Date: 2026-02-15 | Version: 3.0
+
+1. Triage Categories:
+   - Category 1 (Resuscitation): Immediate attention within 0 minutes. Cardiac arrest, airway obstruction.
+   - Category 2 (Emergency): Attention within 10 minutes. Severe chest pain, stroke symptoms, acute respiratory distress.
+   - Category 3 (Urgent): Attention within 30 minutes. Moderate trauma, acute abdominal pain.
+   - Category 4 (Semi-urgent): Attention within 60 minutes. Minor fractures, controlled bleeding.
+   - Category 5 (Non-urgent): Attention within 120 minutes. Chronic symptoms, mild rashes.
+2. Internal Emergency Extension: Dial 5555 for Code Blue activation.
+3. Medication Dispensation: Narcotic log books must be dual-signed by Registered Nurses.
